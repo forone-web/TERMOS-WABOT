@@ -1,5 +1,5 @@
 {
-  "name": "HAFIZH",
+  "name": "Doni",
   "version": "1.0.0",
   "description": "Termux only",
   "main": "index.js",
@@ -39,7 +39,7 @@
   "keywords": [
     "k"
   ],
-  "author": "Hafizh",
+  "author": "Doni",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/HAFizh-15/TERMOS-WABOT/issues"
